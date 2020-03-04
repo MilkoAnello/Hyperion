@@ -1,0 +1,19 @@
+{
+  "name": "hyperion-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./main"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-winston": "^4.0.3",
+    "moment-timezone": "^0.5.28",
+    "morgan": "^1.9.1",
+    "oracledb": "^4.2.0",
+    "properties-reader": "^1.0.0",
+    "winston": "^3.2.1"
+  }
+}
