@@ -13,7 +13,7 @@
     "moment-timezone": "^0.5.28",
     "morgan": "^1.9.1",
     "oracledb": "^4.2.0",
-    "properties-reader": "^1.0.0",
+    "properties-reader": "^2.2.0",
     "winston": "^3.2.1"
   }
 }
